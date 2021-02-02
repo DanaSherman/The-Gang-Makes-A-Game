@@ -1,0 +1,6 @@
+edit > project settings > editor
+
+version control > visible meta files
+
+asset serialization
+mode > force text
